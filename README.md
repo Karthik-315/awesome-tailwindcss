@@ -206,6 +206,7 @@
 - 🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
+- 💼 [Create Tailwind](https://github.com/AndrejJurkin/create-tw) - Easiest way to setup your projects using popular scaffolding scripts and set it up with Tailwind CSS.
 - 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
 - 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
